@@ -14,6 +14,7 @@ namespace SuperCoolApp
     {
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
+        // App Referance : https://medium.com/@levifuller/building-an-angular-application-with-asp-net-core-in-visual-studio-2017-visualized-f4b163830eaa
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
